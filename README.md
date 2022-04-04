@@ -1,3 +1,3 @@
-# JUnit5
-Junit Calculator, with some extra tests
+# JUnit5 Test
+
 THIS README HAS BEEN EDITED ON THE GITHUB WEBSITE
